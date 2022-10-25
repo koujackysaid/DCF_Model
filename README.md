@@ -1,2 +1,2 @@
 # DCF_Model
-A DCF model to estimate the fair price/intrinsic value of NVDIA with notes to explain terms and assumptions, also with sensitivity test
+- Built a DCF model for NVIDIA with an explicit forecasting period from 2023 to 2027 to determine its intrinsic value and implied share price. Thoroughly analyzed the business structure, revenue drivers, financing capabilities, and external risks. Forecasting 3 statements based on the historical statistics and assumptions of the gradual maturing of the business. Estimated the terminal value using the Growth in Perpetuity approach. Adopted a mid-year-convention discounter to make the model closer to reality. Set up a sensitivity test table to show the impact of terminal growth rate and WACC on the implied share price.
